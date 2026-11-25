@@ -1,0 +1,17 @@
+{
+  "K_rho": 0.00014722774639186974,
+  "RS_SCALE": 10000.0,
+  "RHO_LSL": 0.6380868057670555,
+  "RHO_USL": 0.703034927068345,
+  "split_time": "2024-07-31 17:05:11",
+  "exclude_2021": false,
+  "miss_thr": 0.3,
+  "corr_thr": 0.95,
+  "force_keep": [
+    "T_DEP1_PROCESS",
+    "LIFE_TARGET_RUN_A",
+    "AMPS_TARGET_DEP1_A",
+    "VOLTS_TARGET_DEP1_A",
+    "POWER_TARGET_DEP1_A"
+  ]
+}
